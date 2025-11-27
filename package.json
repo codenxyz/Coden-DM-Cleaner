@@ -1,0 +1,9 @@
+{
+  "name": "coden-dm-cleaner",
+  "version": "1.0.0",
+  "description": "Discord DM mesaj temizleyici (kullanıcı mesajları)",
+  "main": "cleaner.js",
+  "dependencies": {
+    "discord.js-selfbot-v13": "^2.0.3"
+  }
+}
